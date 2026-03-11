@@ -25,3 +25,11 @@ Developer bekmunat = new Developer()
     .passion("Microservice Architecture & Distributed Systems")
     .os(List.of("Linux", "Windows", "macOS"))
     .contacts(List.of("@Kaliev_Bekmurat (Telegram)"));
+
+<h3 align="center">🛠️ Технологии, с которыми я работаю</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,redis,git,linux&theme=dark" />
+  </a>
+</p>
