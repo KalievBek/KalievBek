@@ -3,7 +3,8 @@
 ██████╔╝█████╗  █████╔╝ ██╔████╔██║██║   ██║██████╔╝███████║   ██║   
 ██╔══██╗██╔══╝  ██╔═██╗ ██║╚██╔╝██║██║   ██║██╔══██╗██╔══██║   ██║   
 ██████╔╝███████╗██║  ██╗██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║   ██║   
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+
 Backend Java Developer · FAANG aspirant · Clean code enthusiast
 
 ---
@@ -18,7 +19,7 @@ Backend Java Developer · FAANG aspirant · Clean code enthusiast
 
 ```java
 Developer bekmunat = new Developer()
-    .name("Калиев Бекмурат")
+    .name("Kaliev Bekmurat")
     .role("Backend Java Developer")
     .goal("Software Engineer @ FAANG") // 🎯
     .learning(List.of("Spring Boot", "PostgreSQL", "Docker", "Kafka", "Redis"))
