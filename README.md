@@ -19,20 +19,11 @@
 
 # 🧠 Обо мне
 
-Привет! Я **Бекмурат** — backend-разработчик из **Кыргызстана**.
-
-💻 Разрабатываю backend-системы на **Java и Spring Boot**  
-📚 Изучаю **микросервисную архитектуру и распределённые системы**  
-🎯 Моя цель — стать **Software Engineer в FAANG**
-
-Люблю оптимизировать **SQL-запросы**, проектировать **масштабируемые системы** и писать **чистый код**.
+Привет! Я **Бекмурат** — Java backend-разработчик из Кыргызстана. Стремлюсь попасть в **FAANG** в роли Software Engineer и постоянно развиваюсь в backend-разработке и архитектуре высоконагруженных систем.
 
 ---
-
-# 👨‍💻 Developer Object
-
 ```java
-Developer bekmunat = new Developer()
+Developer bekmurat = new Developer()
     .name("Kaliev Bekmurat")
     .role("Backend Java Developer")
     .location("Kyrgyzstan")
@@ -67,20 +58,6 @@ Developer bekmunat = new Developer()
 
 ---
 
-# 🚀 Сейчас изучаю
-
-✔ Spring Boot  
-✔ PostgreSQL Optimization  
-✔ Docker  
-
-📚 В процессе изучения:
-
-- Microservices Architecture  
-- Redis Distributed Cache  
-- Kafka Event Streaming  
-- System Design  
-
----
 
 # 📫 Контакты
 
