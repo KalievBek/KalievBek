@@ -26,10 +26,6 @@ Developer bekmunat = new Developer()
     .os(List.of("Linux", "Windows", "macOS"))
     .contacts(List.of("@Kaliev_Bekmurat (Telegram)"));
 
-<h3 align="center">🛠️ Технологии, с которыми я работаю</h3>
+### 🛠️ Мой стек технологий
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,redis,git,linux&theme=dark" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,redis,git,linux&theme=dark)](https://skillicons.dev)
