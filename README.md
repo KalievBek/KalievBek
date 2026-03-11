@@ -6,7 +6,7 @@
               ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 
               Backend Java Developer · FAANG aspirant · Clean code enthusiast
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/твоя-ссылка-сюда.gif">
 ---
 # 🧠 Обо мне
 
