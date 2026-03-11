@@ -45,7 +45,7 @@ Developer bekmunat = new Developer()
         "Redis"
     ))
     .passion("Microservice Architecture & Distributed Systems")
-    .os(List.of("Linux", "Windows", "macOS"))
+    .os(List.of("Linux", "Windows"))
     .contacts(List.of(
         "Telegram: @Kaliev_Bekmurat",
         "WhatsApp: +996704317722",
@@ -62,18 +62,6 @@ Developer bekmunat = new Developer()
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,redis,git,linux&theme=dark"/>
 </a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bekmunat&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekmunat&layout=compact&theme=tokyonight"/>
 
 </p>
 
