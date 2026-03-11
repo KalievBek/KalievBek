@@ -6,7 +6,7 @@
               ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
 
               Backend Java Developer · FAANG aspirant · Clean code enthusiast
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/твоя-ссылка-сюда.gif">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Java+Developer+from+Kyrgyzstan;Building+scalable+systems+with+Spring+Boot;Mastering+PostgreSQL+%26+Redis;FAANG-bound+Software+Engineer;Code.+Learn.+Improve.+FAANG." alt="Typing SVG" />
 ---
 # 🧠 Обо мне
 
