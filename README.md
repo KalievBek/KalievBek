@@ -51,7 +51,7 @@ Developer bekmurat = new Developer()
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,redis,git,linux,python,django&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,redis,git,linux,python,django,PyCharm&theme=dark"/>
 </a>
 
 </p>
