@@ -19,13 +19,13 @@
 
 # 🧠 Обо мне
 
-Привет! Я **Бекмурат** — Java backend-разработчик из Кыргызстана. Стремлюсь попасть в **FAANG** в роли Software Engineer и постоянно развиваюсь в backend-разработке и архитектуре высоконагруженных систем.
+Привет! Я **Бекмурат** — Java, Python backend-разработчик из Кыргызстана. Стремлюсь попасть в **FAANG** в роли Software Engineer и постоянно развиваюсь в backend-разработке и архитектуре высоконагруженных систем.
 
 ---
-```java
+```java, python
 Developer bekmurat = new Developer()
     .name("Kaliev Bekmurat")
-    .role("Backend Java Developer")
+    .role("Backend Java-Python Developer")
     .location("Kyrgyzstan")
     .goal("Software Engineer @ FAANG")
     .learning(List.of(
